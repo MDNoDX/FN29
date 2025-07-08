@@ -1,1 +1,2 @@
-print("Salom")
+import os
+os.system("cls")
